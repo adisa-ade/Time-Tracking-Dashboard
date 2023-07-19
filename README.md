@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Adisa-Ade](https://github.com/adisa-ade/Time-Tracking-Dashboard.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/adisa-ade/Time-Tracking-Dashboard.git)
+- Live Site URL: [Github Page](https://adisa-ade.github.io/Time-Tracking-Dashboard/)
 
 ## My process
 Mobile view 
